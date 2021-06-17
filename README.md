@@ -1,3 +1,3 @@
 # multi-module-poc
 
-Simple Spring/maven demo
+Simple Java project with mulitple maven modules.
